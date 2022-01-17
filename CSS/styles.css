@@ -1,0 +1,110 @@
+body{
+    background-color: #E4F9F5;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+hr{
+  border: dotted black 6px;
+  border-bottom: none;
+  width: 3%;
+  margin: 100px auto;
+}
+
+h1{
+    font-size: 90px;
+    margin:0px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+    color: brown;
+}
+
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: bolder;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Merriweather', sans-serif;
+    color:#66BFBF;
+}
+.imagess{
+    height: 100px;
+    width: 100px;
+}
+
+p{
+    font-family: 'Rubik Beastly', cursive;
+    color: black;
+    line-height: 2;
+}
+.Top-container
+{
+ color: #E4F9F5;
+ position: relative;
+ padding-top: 50px;
+}
+.node-skill{
+    width:20%;
+    margin-top:50px;
+}
+.Middle-container
+{
+    margin-top: 100px ;
+}
+
+.Bottom-container
+{
+}
+a{
+    margin: 10px 20px;
+}
+.btn{
+    padding-top: 20px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    right:150px;
+    height: 250px;
+    width: 250px;
+}
+.top-cloud{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    left: 50px;
+}
+.cpp-icon{
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+.js-icon{
+    height: 100px;
+    width: 100px;
+    float: left;
+    padding-right: 30px;
+}
+.c-icon{
+    height: 100px;
+    width: 130px;
+    float: left;
+    padding-right: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px;
+}
